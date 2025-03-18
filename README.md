@@ -38,7 +38,7 @@ To get started with this project, you will need to have Python and the necessary
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository_url>
+    git clone <ttps://github.com/Ra-Verse/AI-Handwritten-Character-Recognition/tree/main>
     cd AI-Handwritten-Character-Recognition-Tensorflow
     ```
     *(Replace `<repository_url>` with the actual URL of your GitHub repository)*
