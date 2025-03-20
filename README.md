@@ -8,7 +8,7 @@ This repository contains the Python code for a simple AI model that can recogniz
 
 This project demonstrates a basic implementation of a feedforward neural network to classify handwritten digits from the MNIST dataset. It includes:
 
-* A Python script (`main.py` - assuming you save the provided code as this name) that loads the MNIST dataset, preprocesses the images, defines and trains a neural network model, evaluates its performance, saves the trained model, and makes predictions on sample images.
+* A Python script `main.py` that loads the MNIST dataset, preprocesses the images, defines and trains a neural network model, evaluates its performance, saves the trained model, and makes predictions on sample images.
 
 ## Getting Started
 
@@ -41,8 +41,7 @@ To get started with this project, you will need to have Python and the necessary
     git clone <ttps://github.com/Ra-Verse/AI-Handwritten-Character-Recognition/tree/main>
     cd AI-Handwritten-Character-Recognition-Tensorflow
     ```
-    *(Replace `<repository_url>` with the actual URL of your GitHub repository)*
-
+    
 2.  **(Optional) Create a virtual environment:** It is recommended to create a virtual environment to isolate the project dependencies.
     ```bash
     python -m venv venv
@@ -104,9 +103,11 @@ Contributions to this project are welcome! If you find any bugs or have suggesti
 
 ## License
 
-[Specify the license under which this project is distributed (e.g., MIT License, Apache License 2.0). You can add a `LICENSE` file to your repository with the full text of the license.]
+MIT License, Apache License 2.0
 
 ## Acknowledgements
+
+This project was a guided project by NuralNine
 
 * TensorFlow library: [https://www.tensorflow.org/](https://www.tensorflow.org/)
 * Keras API: [https://keras.io/](https://keras.io/)
